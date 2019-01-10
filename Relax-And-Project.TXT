@@ -1,0 +1,25 @@
+﻿//RECORDED ZSCRIPT 2018
+// Set Project argument
+[If, 1=1,
+	[ISet,Tool:SubTool:Dist,1]
+	[ISet,Tool:SubTool:Mean,100]
+	[ISet,Tool:SubTool:PA Blur,0]
+	[ISet,Tool:SubTool:ProjectionShell,0]
+]
+
+// Create backup
+[If, 1=1,
+	[IPress,Tool:SubTool:Duplicate]
+	[IPress,Tool:SubTool:MoveUp]
+	[IPress,Tool:SubTool:SelectDown]
+]
+
+// Perform Relax
+[If, 1=1,
+	[IModSet,Tool:Deformation:Relax,0]
+	[ISet,Tool:Deformation:Relax,100]
+	[IPress,Tool:SubTool:ProjectAll]
+
+	[MessageOK, "Operate complete"]
+]
+/*End of ZScript*/
