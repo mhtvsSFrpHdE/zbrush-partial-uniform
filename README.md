@@ -10,7 +10,7 @@ I pick up one of the most reliable and programming-friendly approach to create t
 
 **How to use**  
 Set all model as not always show (Turn off the eye icon located at the right of every subtool).  
-Use Control+Mouse smear to mask the model or square mask,  
+Use Control+Mouse smear to mask the details on model or square mask,  
 the best is to keep the mask edge is smoothed, but not the sharp.  
 Reverse the mask selection.  
 ZScript -> Load -> (If Run is not activate) Run.  
