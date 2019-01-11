@@ -35,5 +35,8 @@ Hover mouse on it and hold Control can show the hints.
 Drag the slider under Relax to maximum 100, waiting for the operation to complete.  
 Goto Tool/Subtool/Project, apply a Project All.  
 
+**Known issue**  
+TODO: Shared ZBrush known issue by all scripts.
+
 **Special thanks**  
 Grammarly for README.md
