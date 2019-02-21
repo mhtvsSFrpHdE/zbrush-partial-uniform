@@ -1,4 +1,4 @@
-# zbrush-relax-uniform-lines
+# zbrush-partial-uniform
 A script to partial uniform the lines. Without remesh the entire model.
 
 **What's this**  
