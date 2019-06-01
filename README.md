@@ -1,5 +1,6 @@
 # zbrush-partial-uniform
-A script to partial uniform the lines. Without remesh the entire model.
+**Contact**  
+See https://github.com/mhtvsSFrpHdE/contact-me  
 
 **What's this**  
 In sometimes using a sequence of brushes will result in a distorted or uneven mesh.  
