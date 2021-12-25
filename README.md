@@ -1,7 +1,6 @@
-# zbrush-partial-uniform
-**Contact**  
-See https://github.com/mhtvsSFrpHdE/contact-me  
+![](https://raw.githubusercontent.com/mhtvsSFrpHdE/contact-me/master/AboutIssue.svg)
 
+# zbrush-partial-uniform
 **What's this**  
 In sometimes using a sequence of brushes will result in a distorted or uneven mesh.  
 This is bad for further sculpt, and also bad for some ZBrush features.  
